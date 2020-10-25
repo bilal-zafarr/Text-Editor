@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\bilal\Desktop\C++\Text_Editor\Text_Editor\Source.cpp(51,10): warning C4552: '+': result of expression not used
+C:\Users\bilal\Desktop\C++\Text_Editor\Text_Editor\Source.cpp(85,10): warning C4552: '+': result of expression not used
+  Text_Editor.vcxproj -> C:\Users\bilal\Desktop\C++\Text_Editor\Debug\Text_Editor.exe
